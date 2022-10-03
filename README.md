@@ -2,12 +2,12 @@
 
 Mix of [Create React App](https://github.com/facebook/create-react-app) and [Material UI](https://mui.com) with set of reusable components and utilities to build professional React Application faster.
 
-- [Source Code](https://github.com/karpolan/react-mui-pro-starter)
+- [Source Code](https://github.com/rampage0131/react-mui-pro-starter)
 - [Online Demo](https://react-mui-pro-starter.netlify.app/)
 
 ## How to use
 
-1. Clone or download the repo from: https://github.com/karpolan/react-mui-pro-starter
+1. Clone or download the repo from: https://github.com/rampage0131/react-mui-pro-starter
 2. Copy `env.sample` to `.env`, or at least set `env.REACT_APP_LOG_LEVEL` = `DEBUG` | `INFO` | `WARN` | `ERROR` variable
 3. Replace `_TITLE_` and `_DESCRIPTION_` in all files with own texts
 4. Create **Favorite Icon** images and put them into `/public/img/favicon`, the **favicon.ico** file should be paced into root of `/public` folder.
